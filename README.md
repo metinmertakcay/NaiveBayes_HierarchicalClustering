@@ -36,7 +36,6 @@ The importance of attributes are ranked as following;
 
 ![attribute distinguishing]   (https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/attribute_distinguishing.jpg)
 
-
 The most distinguishing attribute is A9, and the least distinguishing attribute is A1. Data set contains 61 outlier sample.
 
 ![outlier](https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/outlier.jpg)
