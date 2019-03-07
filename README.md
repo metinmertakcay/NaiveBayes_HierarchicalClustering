@@ -4,9 +4,7 @@ I implemented naive bayes (one of the supervised learning algorithm) and hierarc
 ## About Credit Approval Data Set
 This data set concerns credit card applications.  All attribute names and values have been changed to meaningless symbols to protect confidentiality of the data. There are many types of attributes in data set like continues (numeric) and nominal with small number of values, and nominal with larger numbers of values. Data set has 690 instances.
 
-<div style="text-align:center" markdown="1">
-  ![class distribution](https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/class%20distribution.jpg)
-</div>
+![class distribution](https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/class%20distribution.jpg)
 
 Data set has 15 attributes:
 * A1 (nominal) {a, b}
@@ -36,15 +34,12 @@ Data set has 15 attributes:
 
 The importance of attributes are ranked as following;
 
-<div style="text-align:center" markdown="1">
-  ![attribute distinguishing]   (https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/attribute_distinguishing.jpg)
-</div>
+![attribute distinguishing]   (https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/attribute_distinguishing.jpg)
+
 
 The most distinguishing attribute is A9, and the least distinguishing attribute is A1. Data set contains 61 outlier sample.
 
-<div style="text-align:center" markdown="1">
-  ![outlier](https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/outlier.jpg)
-</div>
+![outlier](https://github.com/metinmertakcay/NaiveBayes_HierarchicalClustering/blob/master/images/outlier.jpg)
 
 ### Meaning of Files
 Results can be obtained by changing the file names.
